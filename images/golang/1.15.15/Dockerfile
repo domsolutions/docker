@@ -29,7 +29,6 @@ RUN set -eux; \
 	go version
 
 
-
 ENV GOPATH=/go
 
 ENV PATH=/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
